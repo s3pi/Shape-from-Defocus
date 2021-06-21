@@ -1,3 +1,5 @@
+### Reconstruct an all-focused image from several de-focused images
+
 Reconstruct all focused image from several defocused images.
 
 3 versions of experiments and their corresponding results are mentioned below:
